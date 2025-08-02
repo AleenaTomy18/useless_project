@@ -84,12 +84,13 @@ Double-click index.html to run in your browser
 For Software:RealBreath™ is a web-based parody application that mimics biometric verification by analyzing a user's breath (fake), asking absurd philosophical questions, and issuing a printable spoof certificate. While entirely non-functional from a real verification standpoint, it demonstrates UI/UX design, JavaScript logic, and interactive web development — all packaged in a humorous and visually appealing experience.`
 
 # Screenshots (Add at least 3)
+<img width="1920" height="1080" alt="Screenshot 2025-08-02 163056" src="https://github.com/user-attachments/assets/e200cd90-d450-4473-bc37-ec9b432d841b" />
 
-<img width="1024" height="512" alt="Home" src="Screenshot 2025-08-02 163056.png" />
 
-<img width="1024" height="512" alt="Home" src="Screenshot 2025-08-02 163153.png" />
+<img width="1920" height="1080" alt="Screenshot 2025-08-02 163119" src="https://github.com/user-attachments/assets/3e65ea33-1ba2-4098-a975-f79d3e236ffb" />
 
-<img width="1024" height="512" alt="Home" src="Screenshot 2025-08-02 163119.png" />
+
+<img width="1920" height="1080" alt="Screenshot 2025-08-02 163153" src="https://github.com/user-attachments/assets/2bc23069-dadd-4c48-83e9-e6fe6f683349" />
 
 
 ### Project Demo
@@ -106,6 +107,7 @@ Made with ❤️ at TinkerHub Useless Projects
 
 ![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
 ![Static Badge](https://img.shields.io/badge/UselessProjects--25-25?link=https%3A%2F%2Fwww.tinkerhub.org%2Fevents%2FQ2Q1TQKX6Q%2FUseless%2520Projects)
+
 
 
 
